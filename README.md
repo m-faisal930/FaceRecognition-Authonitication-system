@@ -1,2 +1,2 @@
-# FaceRecognition-Authonitication-system
-It's Gui based Face recognition Authontication system which use some python libraries to authonticate user and take record for next time login
+# Face Recognition Time Tracking System
+Developed a Python-based Face Recognition Time Tracking System utilizing OpenCV and face_recognition libraries. The system enables efficient employee time tracking by allowing them to check in and out through facial recognition. Features include real-time face detection, comparison with stored face encodings, and recording visit durations. The system also includes an admin interface for managing user accounts and generating visit reports.
